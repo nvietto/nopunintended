@@ -6,7 +6,7 @@
 
 nopunintended is a fun package designed to take your mind off things with a pun from the show/video game 'The Last of Us'. 
 
-<img src="image.png" alt="Image" width="500">
+<img src="image.png" alt="Image" width="600">
 
 "People are making apocalypse jokes like there's no tomorrow." -Ellie  
 
