@@ -8,9 +8,11 @@ nopunintended is a fun package designed to take your mind off things with a pun 
 
 <img src="image.png" alt="Image" width="500">
 
-::: {style="font-size: 30%;"}
-(images: HBO)
-:::
+"People are making apocalypse jokes like there's no tomorrow." -Ellie  
+
+"Too soon?"- Ellie   
+
+"No, it's topical" - Joel 
 
 ## Installation
 
