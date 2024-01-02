@@ -1,13 +1,13 @@
 Package: nopunintended
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Prints a pun from "The Last of Us"
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Nicholas Vietto
+Maintainer: The package maintainer <nicholasvietto@gmail.com>
+Description: Prints a pun from a data set that is adapted from Ellie's "No Pun Intended: Volume Too" book in "The Last of Us" show/video game series.
 Encoding: UTF-8
 LazyData: true
 Depends: 
     R (>= 2.10)
+License: MIT + file LICENSE
+RoxygenNote: 7.2.3
