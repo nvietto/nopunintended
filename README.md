@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-nopunintended is a fun package designed to take your mind off things with a pun from the show/video game 'The Last of Us'. 
+nopunintended is a fun package designed to take your mind off things with puns from the show/video game 'The Last of Us.'
 
 <img src="image.png" alt="Image" width="600">
 
