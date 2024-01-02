@@ -1,10 +1,10 @@
 Package: nopunintended
 Type: Package
-Title: Prints a pun from "The Last of Us"
+Title: Prints a pun from 'The Last of Us'
 Version: 0.1.0
 Author: Nicholas Vietto
 Maintainer: The package maintainer <nicholasvietto@gmail.com>
-Description: Prints a pun from a data set that is adapted from Ellie's "No Pun Intended: Volume Too" book in "The Last of Us" show/video game series.
+Description: Prints a pun from a data set that is adapted from Ellie's 'No Pun Intended: Volume Too' book in 'The Last of Us' show/video game series.
 Encoding: UTF-8
 LazyData: true
 Depends: 
