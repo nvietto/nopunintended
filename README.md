@@ -6,7 +6,7 @@
 
 nopunintended is a fun package designed to take your mind off things with a pun from the show/video game 'The Last of Us'.
 
-![](image.png)
+<img src="image.png" alt="Image" width="300">
 
 ## Installation
 
