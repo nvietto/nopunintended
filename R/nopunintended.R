@@ -11,7 +11,7 @@ nopunintended <- function(number = NULL)
   if (is.null(number))
   {
     sample <- (sample(1:nrow(data), 1))
-    output <- data[sample, ]$pun
+    output <- data[sample, ]
     return(output)
   }
   else
