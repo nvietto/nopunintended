@@ -8,11 +8,7 @@ nopunintended is a package designed to take your mind off coding with puns from 
 
 <img src="image.png" alt="Image" width="600">
 
-"People are making apocalypse jokes like there's no tomorrow." -Ellie  
 
-"Too soon?"- Ellie   
-
-"No, it's topical" - Joel 
 
 ## Installation
 
