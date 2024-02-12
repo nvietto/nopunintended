@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-nopunintended is a package designed to take your mind off coding with puns from ['No Pun Intended: Volume Too'](https://thelastofus.fandom.com/wiki/No_Pun_Intended:_Volume_Too) in the show/video game ['The Last of Us.'](https://www.hbo.com/the-last-of-us). 
+nopunintended is a package designed to take your mind off coding with puns from ['No Pun Intended: Volume Too'](https://thelastofus.fandom.com/wiki/No_Pun_Intended:_Volume_Too) in the show/video game ['The Last of Us'](https://www.hbo.com/the-last-of-us). 
 
 <img src="image.png" alt="Image" width="600">
 
