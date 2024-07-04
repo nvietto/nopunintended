@@ -9,7 +9,7 @@ nopunintended is a package designed to take your mind off coding with puns from 
 ##
 
 <p align="center">
-<img src="image.png" alt="Image" width="500" height="300">
+<img src="image.png" alt="Image" width="500" height="400">
 </p>
 
 
