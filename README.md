@@ -6,11 +6,11 @@
 
 nopunintended is a package designed to take your mind off coding with puns from ['No Pun Intended: Volume Too'](https://thelastofus.fandom.com/wiki/No_Pun_Intended:_Volume_Too) in the show/video game ['The Last of Us'](https://www.hbo.com/the-last-of-us). 
 
-## 
+##
 
-<div class="center">
-<img src="image.png" alt="Image" width="500" height="400">
-</div>
+<p align="center">
+<img src="image.png" alt="Image" width="500" height="300">
+</p>
 
 
 ## Installation
